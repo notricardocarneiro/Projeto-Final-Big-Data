@@ -1,4 +1,3 @@
-# trabalho-tópicos-big-data-em-python
 # Entrega Final Projeto Tópicos de Big Data em Python
 
 - Nome: Ricardo Gonçalves Carneiro
