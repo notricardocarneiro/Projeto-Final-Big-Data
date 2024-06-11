@@ -23,3 +23,5 @@
 
 ## Linguagem Utilizada
 - Python 3.12
+
+Link da apresentação do vídeo: https://https://www.youtube.com/watch?v=KpZbsVgVHhw&ab_channel=Leera
