@@ -13,7 +13,7 @@
 - Unidade: Estácio Maracanã
 - Orientador: Marcelo Perantoni
 
-## Projeto para análise, tratamento e visualização de dados utilizando python.
+## Projeto para análise, tratamento e visualização de dados de uma loja de materiais de contrução utilizando python.
 
 ## Blibliotecas Utilizadas
 
