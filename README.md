@@ -15,7 +15,7 @@
 
 ## Projeto para análise, tratamento e visualização de dados de uma loja de materiais de contrução utilizando python.
 
-## Blibliotecas Utilizadas
+## Bibliotecas Utilizadas
 
 - Pandas
 - Matplotlib
